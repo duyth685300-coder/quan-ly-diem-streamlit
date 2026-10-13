@@ -59,4 +59,4 @@ st.pyplot(fig)
 
 # 7. Thông tin người tạo 
 st.markdown("---")
-st.caption("Họ và tên: [Trần Hoàng Duy]")
+st.caption("Họ và tên: [Trần Hoàng Duy] - MSSV: [068208005300]") 
